@@ -1,1 +1,2 @@
-Shopping list with some functions, I decided to do this little project to practice the concepts seen in college
+Lista de Compras em Python
+Um projeto simples para praticar conceitos de programação orientada a objetos (POO), estruturas de dados e persistência em arquivos (ou banco de dados). Desenvolvido em Python, permite gerenciar itens de uma lista de compras
